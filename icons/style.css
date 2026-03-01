@@ -1,0 +1,215 @@
+/* Стили для установки иконок */
+@font-face {
+  font-family: 'RamadaIcons';
+  src: url('fonts/RamadaIcons.eot?lh1dah');
+  src: url('fonts/RamadaIcons.eot?lh1dah#iefix') format('embedded-opentype'),
+    url('fonts/RamadaIcons.ttf?lh1dah') format('truetype'),
+    url('fonts/RamadaIcons.woff?lh1dah') format('woff'),
+    url('fonts/RamadaIcons.svg?lh1dah#RamadaIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: 'RamadaIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-link:before {
+  content: "\e900";
+}
+
+.icon-route:before {
+  content: "\e901";
+}
+
+.icon-elem-pool:before {
+  content: "\e902";
+}
+
+.icon-elem-tablichka:before {
+  content: "\e903";
+}
+
+.icon-elem-bed:before {
+  content: "\e904";
+}
+
+.icon-elem-phen:before {
+  content: "\e905";
+}
+
+.icon-geo:before {
+  content: "\e906";
+}
+
+.icon-mail:before {
+  content: "\e907";
+}
+
+.icon-arrow-right:before {
+  content: "\e908";
+}
+
+.icon-arrow-left:before {
+  content: "\e909";
+}
+
+.icon-chevron-right:before {
+  content: "\e90a";
+}
+
+.icon-chevron-left:before {
+  content: "\e90b";
+}
+
+.icon-chevron-top:before {
+  content: "\e90c";
+}
+
+.icon-chevron-down:before {
+  content: "\e90d";
+}
+
+.icon-services-kids-bedroom:before {
+  content: "\e90e";
+}
+
+.icon-services-places:before {
+  content: "\e90f";
+}
+
+.icon-services-master-bedroom:before {
+  content: "\e910";
+}
+
+.icon-services-coffee-machine:before {
+  content: "\e911";
+}
+
+.icon-services-board:before {
+  content: "\e912";
+}
+
+.icon-services-holodilnik:before {
+  content: "\e913";
+}
+
+.icon-services-condicioner:before {
+  content: "\e914";
+}
+
+.icon-services-garderob:before {
+  content: "\e915";
+}
+
+.icon-services-electric-kettle:before {
+  content: "\e916";
+}
+
+.icon-services-tv:before {
+  content: "\e917";
+}
+
+.icon-services-microwave:before {
+  content: "\e918";
+}
+
+.icon-services-wifi:before {
+  content: "\e919";
+}
+
+.icon-area:before {
+  content: "\e91a";
+}
+
+.icon-places:before {
+  content: "\e91b";
+}
+
+.icon-star:before {
+  content: "\e91c";
+}
+
+.icon-burger:before {
+  content: "\e91d";
+}
+
+.icon-caplya .path1:before {
+  content: "\e91e";
+  color: rgb(196, 13, 60);
+}
+
+.icon-caplya .path2:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-solo:before {
+  content: "\e920";
+}
+
+.icon-friends:before {
+  content: "\e921";
+}
+
+.icon-para:before {
+  content: "\e922";
+}
+
+.icon-family:before {
+  content: "\e923";
+}
+
+.icon-delovoy:before {
+  content: "\e924";
+}
+
+.icon-close:before {
+  content: "\e925";
+}
+
+.icon-book:before {
+  content: "\e926";
+}
+
+.icon-menu:before {
+  content: "\e927";
+}
+
+.icon-pdf:before {
+  content: "\e928";
+}
+
+.icon-play:before {
+  content: "\e929";
+}
+
+.icon-3d:before {
+  content: "\e92a";
+}
+
+.icon-vk:before {
+  content: "\e92b";
+}
+
+.icon-telegram:before {
+  content: "\e92c";
+}
+
+.icon-whatsapp:before {
+  content: "\e92d";
+}
+
+/* ./Стили для иконок */
