@@ -21,5 +21,5 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ваш_профиль/ваш_репозиторий.git
+https://github.com/DmitriyVERST/ramada.git
 ```
